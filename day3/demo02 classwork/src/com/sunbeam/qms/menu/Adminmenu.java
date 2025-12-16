@@ -1,0 +1,36 @@
+package com.sunbeam.qms.menu;
+
+import java.util.Scanner;
+
+public class Adminmenu {
+	
+		private static  int adminMenuOptions(Scanner sc) {
+			System.out.println("0.Logout");
+			System.out.println("1.Create Quiz");
+			System.out.println("2.List Quizzes ");
+		
+
+			System.out.println(" enter your choic: ");
+
+			return sc.nextInt();
+		}
+
+		public static void adminMenu(Scanner sc) {
+			int choice ;
+			while ((choice = adminMenuOptions(sc)) != 0) {
+				switch (choice) {
+				case 1:
+					System.out.println("Create Quiz  Selected");
+					break;
+				case 2:
+					System.out.println("List Quizzes Selected");
+					break;
+			
+				default:
+					System.out.println("Wrong Choice...");
+					break;
+				}
+			}
+		}
+	}
+
