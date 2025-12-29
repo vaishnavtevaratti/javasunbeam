@@ -1,0 +1,12 @@
+
+Dec 23, 2025 09:52:04.75 NEW SESSION
+Dec 23, 2025 09:52:04.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 23, 2025 09:52:07.00 [12764:21772:1223/095207.001:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 23, 2025 09:52:07.00 [12764:21772:1223/095207.003:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 23, 2025 09:52:34.26 [12764:21772:1223/095234.267:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 23, 2025 09:52:34.95 [12764:21772:1223/095234.951:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+Dec 23, 2025 09:53:19.72 [12764:21772:1223/095319.723:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 23, 2025 09:54:45.15 [12764:21772:1223/095445.150:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 23, 2025 09:57:31.49 [12764:21772:1223/095731.497:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 23, 2025 10:03:05.39 [12764:21772:1223/100305.390:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 23, 2025 10:12:23.10 [12764:21772:1223/101223.104:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105

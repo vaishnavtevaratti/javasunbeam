@@ -1,0 +1,10 @@
+package com.sunbeam;
+
+
+
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+@WebServlet("/dec23")
+public class MyServlet  extends HttpServlet{
+
+}

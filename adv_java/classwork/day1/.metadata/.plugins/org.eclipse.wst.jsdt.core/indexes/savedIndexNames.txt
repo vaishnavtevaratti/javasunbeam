@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+D:\javasunbeam\adv_java\classwork\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4183959151.index
+1824575266.index
+3430003599.index
